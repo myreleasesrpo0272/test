@@ -1,1 +1,0 @@
-TurboGit MTProto cloud test connection verified!
